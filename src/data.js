@@ -1,3 +1,4 @@
+/*
 export const projects = [
   {
     title: "React Reserve",
@@ -16,6 +17,7 @@ export const projects = [
     link: "https://reactbootcamp.com",
   },
 ];
+*/
 
 export const skills = [
   "JavaScript",
