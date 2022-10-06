@@ -19,7 +19,7 @@ export const projects = [
     title: "Screen Health Application",
     subtitle: "Java, Android App Development Stack",
     description:
-      "This project was developed to showcase my front-end development skills for websites such as showing making a website fully responsive, using various styling components and animations",
+      "This is my Final Honours Project which is an android mobile application which utilizes an android API called UsageStatsManger which tracks how often the user use's their mobile smart phone.",
     image: "./project.jpeg",
     link: "https://github.com/jcampb98/HonoursProjectApp",
   },
