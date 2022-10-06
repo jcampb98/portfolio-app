@@ -7,13 +7,12 @@ export default function About(){
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Joshua.
-                        <br className="hidden lg:inline-block" />I love to code/program amazing
+                        <br className="hidden lg:inline-block" />I develop amazing websites/applications
                         apps.
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Qui
-                        laborum quasi, incidunt dolore iste nostrum cupiditate voluptas?
-                        Laborum, voluptas natus?
+                        I am a graduate of Glasgow Caledonian University that achieved an Upper Second Class Honours degree in Computing. 
+                        I have a lot of experience in building websites/mobile applications by using various Software and Technologies.
                     </p>
                     <div className="flex justify center">
                         <a href="#contact" 
