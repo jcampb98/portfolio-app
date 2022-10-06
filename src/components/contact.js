@@ -75,6 +75,7 @@ export default function Contact(){
                         id="name"
                         name="name"
                         className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                        onChange={(e) => setName(e.target.value)}
                         />
                     </div>
                     <div className="relative mb-4">
@@ -86,6 +87,7 @@ export default function Contact(){
                         id="email"
                         name="email"
                         className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 text-base outline-none text-gray-100 py-1 px-3 leading-8 transition-colors duration-200 ease-in-out"
+                        onChange={(e) => setEmail(e.target.value)}
                         />
                     </div>
                     <div className="relative mb-4">
@@ -98,6 +100,7 @@ export default function Contact(){
                         id="message"
                         name="message"
                         className="w-full bg-gray-800 rounded border border-gray-700 focus:border-indigo-500 focus:ring-2 focus:ring-indigo-900 h-32 text-base outline-none text-gray-100 py-1 px-3 resize-none leading-6 transition-colors duration-200 ease-in-out"
+                        onChange={(e) => setMessage(e.target.value)}
                         />
                     </div>
                     <button
