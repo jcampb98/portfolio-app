@@ -1,23 +1,29 @@
-/*
 export const projects = [
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Crypto Price Tracker",
+    subtitle: "React Framework",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
-    image: "./project.jpeg",
-    link: "https://reactbootcamp.com",
+      "This was my independent project that i undertook in my spare time and the project is a React JS website that would allow users to search crypto currency prices by fetching data from a public API.",
+    image: "./cryptoProject.gif",
+    link: "https://currency-price-tracker.netlify.app/",
   },
   {
-    title: "React Reserve",
-    subtitle: "MERN Stack",
+    title: "Splash To Travel",
+    subtitle: "React Framework, CSS",
     description:
-      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+      "This project was developed to showcase my front-end development skills for websites such as showing making a website fully responsive, using various styling components and animations",
+    image: "./responsive.jpg",
+    link: "https://splash-to-travel.netlify.app/",
+  },
+  {
+    title: "Screen Health Application",
+    subtitle: "Java, Android App Development Stack",
+    description:
+      "This project was developed to showcase my front-end development skills for websites such as showing making a website fully responsive, using various styling components and animations",
     image: "./project.jpeg",
-    link: "https://reactbootcamp.com",
+    link: "https://github.com/jcampb98/HonoursProjectApp",
   },
 ];
-*/
 
 export const skills = [
   "JavaScript",
