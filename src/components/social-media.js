@@ -2,7 +2,7 @@ import { GlobeAltIcon } from "@heroicons/react/solid";
 import { SocialIcon } from 'react-social-icons';
 import React from "react";
 
-export default function Skills(){
+export default function Social(){
     return(
         <section id="social-media">
             <div className="container px-5 py-10 mx-auto text-center lg:px-40">

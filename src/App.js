@@ -5,6 +5,7 @@ import Navbar from "./components/navbar.js";
 import Projects from "./components/projects.js";
 import Skills from "./components/skills.js";
 import SocialMedia from "./components/social-media.js";
+import Resume from "./components/resume.js";
 
 export default function App() {
   return (
@@ -14,6 +15,7 @@ export default function App() {
       <Projects/>
       <Skills/>
       <SocialMedia/>
+      <Resume/>
       <Contact/>
     </main>
   );

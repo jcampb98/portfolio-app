@@ -20,6 +20,9 @@ export default function Navbar(){
             <a href="#social-media" className="mr-5 hover:text-white">
                 Social Media Links
             </a>
+            <a href="#resume" className="mr-5 hover:text-white">
+                Resume
+            </a>
             </nav>
             <a
             href="#contact"
