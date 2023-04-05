@@ -6,6 +6,7 @@ import Projects from "./components/projects.js";
 import Skills from "./components/skills.js";
 import SocialMedia from "./components/social-media.js";
 import Resume from "./components/resume.js";
+import Experience from "./components/experiance.js";
 
 export default function App() {
   return (
@@ -13,6 +14,7 @@ export default function App() {
       <Navbar/>
       <About/>
       <Projects/>
+      <Experience/>
       <Skills/>
       <SocialMedia/>
       <Resume/>

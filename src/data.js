@@ -33,5 +33,7 @@ export const skills = [
   "HTML",
   "CSS",
   "C#",
-  "ASP.NET"
+  "ASP.NET",
+  "Xamarin",
+  "SQL"
 ];
