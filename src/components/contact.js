@@ -15,6 +15,7 @@ export default function Contact(){
     
     function handleSubmit(e) {
         e.preventDefault();
+        e.target.reset(); //this clears the input from contact form
         fetch("/", {
           method: "POST",
           headers: { "Content-Type": "application/x-www-form-urlencoded" },
