@@ -5,7 +5,7 @@
   "proxy": "https://www.joshua-campbell.net/",
   "dependencies": {
     "@craco/craco": "^5.9.0",
-    "@heroicons/react": "^1.0.1",
+    "@heroicons/react": "^1.0.6",
     "cors": "^2.8.5",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
@@ -15,8 +15,8 @@
   "scripts": {
     "start": "craco start",
     "build": "craco build",
-    "test": "craco test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "test": "npx jest"
   },
   "eslintConfig": {
     "extends": [
@@ -26,6 +26,7 @@
   },
   "devDependencies": {
     "autoprefixer": "^9.8.6",
+    "jest": "^29.6.2",
     "postcss": "^7.0.36",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2"
   }

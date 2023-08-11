@@ -11,18 +11,31 @@ export default function Experiance(){
                     Previous Experience
                 </h1>
                 <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-                    This is a list of Previous Job Experience that i have gained
+                    This is a list of Processional Job Experience that i have gained
                 </p>
                 </div>
                 <div className="flex flex-wrap -m-4">
                     <div class="grid grid-cols-1 md:grid-cols-6 my-10">
                         <div class="flex flex-col col-span-2 mb-4 md:mb-0">
-                            <h5 class="text-xl md:text-2xl font-bold">Software Development Intern</h5>
-                            <h6 class="text-lg font-bold">KMsoft</h6>
-                            <p>Nov 2022 - Apr 2023</p>
+                            <h5 class="text-xl md:text-2xl font-bold">Software Developer</h5>
+                            <h6 class="text-lg font-bold">Rippl</h6>
+                            <p color="white">Jun 2023 - Present</p>
                         </div>
                         <div class="flex flex-col col-span-4">
-                            <p>My duties as a Software Development Intern consisted of continuously Developing and Updating StockAssist to patch any bugs/errors
+                            <p color="white">My duties as a Software Developer consisted of continuously Developing and Updating Vaillant Advance to patch any bugs/errors
+                                and develop any new features for the Web and Mobile Application. I was also responsible
+                                for Testing the Web and Mobile Application was error/bug free before any new updates were rolled out to the client.
+                            </p>
+                        </div>
+                    </div>
+                    <div class="grid grid-cols-1 md:grid-cols-6 my-10">
+                        <div class="flex flex-col col-span-2 mb-4 md:mb-0">
+                            <h5 class="text-xl md:text-2xl font-bold">Software Development Intern</h5>
+                            <h6 class="text-lg font-bold">KMsoft</h6>
+                            <p color="white">Nov 2022 - Apr 2023</p>
+                        </div>
+                        <div class="flex flex-col col-span-4">
+                            <p color="white">My duties as a Software Development Intern consisted of continuously Developing and Updating StockAssist to patch any bugs/errors
                                 and develop any new features for the Web and Mobile Application for clients. I was also responsible
                                 for Testing the Web and Mobile Application was error/bug free before any new updates were rolled out to the clients. I
                                 was also put in charge of my own small project for KMsoft to build a Desktop Application for a client which needed new software to streamline their manufacturing process and barcode scanning to make it

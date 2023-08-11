@@ -28,12 +28,13 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React JS",
-  "Java",
-  "Node JS",
+  "Angular",
+  "Jest",
+  "XUnit",
   "HTML",
   "CSS",
   "C#",
-  "ASP.NET",
+  ".NET",
   "Xamarin",
   "SQL"
 ];
