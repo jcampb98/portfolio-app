@@ -28,7 +28,8 @@ export const projects = [
 export const skills = [
   "JavaScript",
   "React JS",
-  "Angular",
+  "TypeScript",
+  "Vue",
   "Jest",
   "XUnit",
   "HTML",
@@ -36,5 +37,6 @@ export const skills = [
   "C#",
   ".NET",
   "Xamarin",
-  "SQL"
+  "SQL",
+  "Microsoft Azure"
 ];
