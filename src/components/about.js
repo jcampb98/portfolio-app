@@ -1,6 +1,7 @@
 import React from "react";
 
-export default function About(){
+export default function About()
+{
     return(
         <section id="about">
             <div className="container mx-auto flex px-10 py-20 md:flex-row flex-col items-center">
@@ -10,8 +11,11 @@ export default function About(){
                         <br className="hidden lg:inline-block" />I develop amazing websites/applications
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        I am a graduate of Glasgow Caledonian University that achieved an Upper Second Class Honours degree in Computing. 
-                        I have a lot of experience in building websites/mobile applications by using various Software and Technologies.
+                        As a seasoned Software Developer and proud graduate of Glasgow Caledonian University, 
+                        I hold an Upper Second Class Honours degree in Computing, 
+                        reflecting my dedication and expertise in the field. With a wealth of experience in crafting dynamic websites and mobile applications, 
+                        I thrive on leveraging diverse software and cutting-edge technologies to bring innovative digital solutions to life. From conceptualization to execution, 
+                        I am committed to delivering robust and user-centric software experiences that exceed expectations.
                     </p>
                     <div className="flex justify center">
                         <a href="#contact" 
