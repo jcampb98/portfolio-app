@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "type": "node",
+            "name": "vscode-jest-tests.v2",
+            "request": "launch",
+            "args": [
+                "test",
+                "--runInBand",
+                "--watchAll=false",
+                "--testNamePattern",
+                "${jest.testNamePattern}",
+                "--runTestsByPath",
+                "${jest.testFile}"
+            ],
+            "cwd": "c:\\Users\\Joshi\\web dev projects\\portfolio-app",
+            "console": "integratedTerminal",
+            "internalConsoleOptions": "neverOpen",
+            "disableOptimisticBPs": true,
+            "runtimeExecutable": "yarn"
+        }
+    ]
+}

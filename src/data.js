@@ -31,7 +31,7 @@ export const skills = [
   "TypeScript",
   "Vue",
   "Jest",
-  "XUnit",
+  "NUnit",
   "HTML",
   "CSS",
   "C#",
