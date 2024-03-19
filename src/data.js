@@ -16,12 +16,20 @@ export const projects = [
     link: "https://splash-to-travel.netlify.app/",
   },
   {
-    title: "Screen Health Application",
-    subtitle: "Java, Android App Development Stack",
+    title: "CipherGuard",
+    subtitle: "React.js, Vite, CSS",
     description:
-      "This is my Final Honours Project which is an android mobile application which utilizes an android API called UsageStatsManger which tracks how often the user use's their mobile smart phone.",
+      "This is a personal project that was created to generate passwords. The Features allow the users to specify the length of their passwords and choose to include lowercase/uppercase letters, numbers etc.",
     image: "./project.jpeg",
-    link: "https://github.com/jcampb98/HonoursProjectApp",
+    link: "https://cipherguard.netlify.app/",
+  },
+  {
+    title: "SpendWise",
+    subtitle: "Vue, CSS, Vite.js, Vitest, PlayWright",
+    description:
+      "This is ma personal project that i have been working on and it's an Expense Tracker website which allows the user to Add expenses to track income/expenses, Update transactions, Remove transactions, View transactions in graphs, Export all current expenses/income and graphs to a PDF file for download.",
+    image: "./expense.jpg",
+    link: "https://spendwise-vue-expense.vercel.app/",
   },
 ];
 
@@ -36,7 +44,11 @@ export const skills = [
   "CSS",
   "C#",
   ".NET",
-  "Xamarin",
   "SQL",
-  "Microsoft Azure"
+  "Microsoft Azure",
+  "AWS",
+  "Docker",
+  "Kubernetes",
+  "Playwright",
+  "Vite.js"
 ];
