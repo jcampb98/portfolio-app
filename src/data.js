@@ -8,12 +8,12 @@ export const projects = [
     link: "https://currency-price-tracker.netlify.app/",
   },
   {
-    title: "Splash To Travel",
-    subtitle: "React Framework, CSS",
+    title: "IP Address Tracker",
+    subtitle: "React Framework, CSS, TypeScript, Vite.js, Mapbox",
     description:
-      "This project was developed to showcase my front-end development skills for websites such as showing making a website fully responsive, using various styling components and animations",
+      "This project was developed to showcase my front-end development skills for websites such as showing making a website fully responsive, and allowed me to apply my knowledge of TypeScript into a personal project.",
     image: "./responsive.jpg",
-    link: "https://splash-to-travel.netlify.app/",
+    link: "https://ip-address-tracker-one-iota.vercel.app/",
   },
   {
     title: "CipherGuard",
