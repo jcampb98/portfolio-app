@@ -8,10 +8,10 @@ export default function About()
                 <div className="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
                     <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
                         Hi, I'm Joshua.
-                        <br className="hidden lg:inline-block" />I develop amazing websites/applications
+                        <br className="hidden lg:inline-block" />I develop Web/Mobile Applications
                     </h1>
                     <p className="mb-8 leading-relaxed">
-                        As a seasoned Software Developer and proud graduate of Glasgow Caledonian University, 
+                        As a seasoned Junior Software Developer and proud graduate of Glasgow Caledonian University, 
                         I hold an Upper Second Class Honours degree in Computing, 
                         reflecting my dedication and expertise in the field. With a wealth of experience in crafting dynamic websites and mobile applications, 
                         I thrive on leveraging diverse software and cutting-edge technologies to bring innovative digital solutions to life. From conceptualization to execution, 
@@ -29,11 +29,7 @@ export default function About()
                     </div>
                 </div>
                 <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6">
-                    <img
-                        className="object-cover object-center rounded-full"
-                        alt="hero image"
-                        src="./profile-pic.svg"
-                    />
+                    <img className="object-cover object-center rounded-full" src="./profile-pic.svg" alt="image of Joshua Campbell looking outwards" />
                 </div>
             </div>
         </section>

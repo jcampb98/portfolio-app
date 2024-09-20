@@ -18,13 +18,13 @@ export default function Experiance()
                 <div className="flex flex-wrap -m-4">
                     <div class="grid grid-cols-1 md:grid-cols-6 my-10">
                         <div class="flex flex-col col-span-2 mb-4 md:mb-0">
-                            <h5 class="text-xl md:text-2xl font-bold">Software Developer</h5>
+                            <h5 class="text-xl md:text-2xl font-bold">Junior Software Developer</h5>
                             <h6 class="text-lg font-bold">Rippl</h6>
                             <p color="white">Jun 2023 - Feb 2024</p>
                         </div>
                         <div class="flex flex-col col-span-4">
                             <p color="white">
-                                In my role as a Software Developer, I played a pivotal role in the ongoing enhancement and maintenance of Vaillant Advance. 
+                                In my role as a Junior Software Developer, I played a pivotal role in the ongoing enhancement and maintenance of Vaillant Advance. 
                                 This encompassed the continuous development and implementation of updates to address any bugs or errors, as well as the integration of new features for both the web and mobile applications. 
                                 A key responsibility was meticulously testing the applications to ensure they were free from errors or bugs before deploying any updates to our clients. 
                                 This dedication to quality assurance not only upheld the integrity of our software but also fostered trust and satisfaction among our clientele.
